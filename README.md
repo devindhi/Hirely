@@ -1,3 +1,7 @@
+ A custom solution website that has a LLM integration. A person may click on a job and answer  some questions related to the job then the answers are taken to the LLM model to evaluate the persons eligibility to the specific job role. The rating given to the person and their answers can be viewed by the recruiters of the company.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
